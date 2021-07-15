@@ -9,10 +9,13 @@ yarn
 ```
 yarn dev
 ```
-### Compiles and minifies for production
+## Compiles and minifies for production
 ```
 yarn build (macOS)
 
 yarn build-win (Windows)
 ```
 ## ScreenShot
+<p align="center">
+  <img src="screenshot/1.png" width="80%" />
+</p>
