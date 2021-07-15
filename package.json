@@ -75,7 +75,9 @@
     },
     "win": {
       "icon": "./public/icon.ico",
-      "extraResources": ["./libs/**"],
+      "extraResources": [
+        "./libs/**"
+      ],
       "target": [
         {
           "target": "nsis",
