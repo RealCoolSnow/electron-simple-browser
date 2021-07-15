@@ -1,9 +1,9 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-simple-browser",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
-  "description": "electron quick start project",
+  "description": "A simple browser powered by electron.",
   "author": {
     "name": "CoolSnow",
     "email": "coolsnow0927@gmail.com"
@@ -60,8 +60,8 @@
   },
   "main": "dist/main/_.js",
   "build": {
-    "productName": "quickstart",
-    "appId": "app.quickstart",
+    "productName": "SimpleBrowser",
+    "appId": "app.simple.browser",
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true,
